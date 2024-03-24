@@ -1,0 +1,9 @@
+ejb\message\vehicleReceiver.class
+ejb\remote\LocationSensor.class
+ejb\remote\TLStatus.class
+ejb\remote\Vehicles.class
+ejb\impl\TLStatusBean.class
+ejb\message\locationReceiver.class
+ejb\message\statusReceiver.class
+ejb\impl\locationSensorBean.class
+ejb\impl\VehiclesBean.class
